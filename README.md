@@ -40,3 +40,5 @@ url for libraries
 
 # Things you can practice/learn
 Get CSV files from the internet (by using requests library), open and write files, make directories, check current date with DateTime object.
+
+Thanks for reading and happy coding :)
